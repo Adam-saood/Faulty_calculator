@@ -3,7 +3,7 @@
 # 56+9 = 77
 # 56/6 = 4
 
-print("Welcome to faulty calculator")
+print("Welcome to ubaida saood faulty calculator")
 op = input("Enter operator: \n * , +  , / , - \n")
 num1 = int(input("enter a first number: "))
 num2 = int(input("Enter a second number: "))
